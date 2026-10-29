@@ -7,7 +7,7 @@ int main(int argc, char** argv)
 	//Toto je priklad, ktory ukazuje ako sa da pouzit kniznica Eigen na riesenie systemu linearnej rovnice Ax = b, kde A je sparse matica.
 	int n = 20;
 	//Toto je naivny priklad, ktory ukazuje ako sa da pouzit kniznica Eigen na riesenie systemu linearnej rovnice Ax = b, kde A je sparse matica.
-	double tau = 1;
+	double tau = 1.5;
 
 	// Naplnime koeficienty matice
 	std::vector<Eigen::Triplet<double>> coefficients;
