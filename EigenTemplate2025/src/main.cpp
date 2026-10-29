@@ -4,7 +4,7 @@
 
 int main(int argc, char** argv)
 {
-	int n = 10;
+	int n = 20;
 	double tau = 1;
 
 	// Naplnime koeficienty matice
