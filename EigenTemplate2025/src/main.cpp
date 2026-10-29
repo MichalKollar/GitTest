@@ -4,7 +4,8 @@
 
 int main(int argc, char** argv)
 {
-	int n = 10;
+	//Toto je naivny priklad, ktory ukazuje ako sa da pouzit kniznica Eigen na riesenie systemu linearnej rovnice Ax = b, kde A je sparse matica.
+	int n = 30;
 	double tau = 1;
 
 	// Naplnime koeficienty matice
